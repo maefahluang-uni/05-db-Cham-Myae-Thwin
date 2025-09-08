@@ -15,7 +15,7 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-Your answer
+The file is in the path /workspaces/05-db-Cham-Myae-Thwin/src/main/resources/data.sql and data.sql is used to insert initial data into the database when the application starts.
 ```
 
 ## User Reservice - Complete the code
